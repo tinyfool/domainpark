@@ -60,7 +60,9 @@
           </p>
           <div class="jumbotron">
             <h3>Domaim Park</h3>
-
+<?php 
+	echo "test";
+?>
 <?php
   define('MAGPIE_CACHE_DIR', './cache');
   require_once("../phplib/magpierss/rss_fetch.inc");
