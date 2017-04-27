@@ -1,5 +1,6 @@
 {
     "require": {
-        "kellan/magpierss": "dev-master"
+        "kellan/magpierss": "dev-master",
+        "smarty/smarty": "dev-master"
     }
 }

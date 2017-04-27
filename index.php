@@ -19,7 +19,6 @@
 
     <!-- Custom styles for this template -->
     <link href="offcanvas.css" rel="stylesheet">
-
     <!-- Just for debugging purposes. Don't actually copy this line! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
 
@@ -60,12 +59,13 @@
           </p>
           <div class="jumbotron">
             <h3>Domaim Park</h3>
-<?php 
-	echo "test";
-?>
 <?php
+
+  require __DIR__ . '/vendor/autoload.php';
+
   define('MAGPIE_CACHE_DIR', './cache');
-  require_once("../phplib/magpierss/rss_fetch.inc");
+  require_once(__DIR__ .  "/vendor/kellan/magpierss/rss_fetch.inc");
+
   $url = "http://tinyfool.org/feed/";
   $rss = fetch_rss( $url );
   
@@ -106,9 +106,6 @@
         </p>
       </footer>
     </div><!--/.container-->
-
-
-
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->

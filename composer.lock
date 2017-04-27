@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "7e313da419984f7bf83018513c585921",
+    "content-hash": "b9cbccab56bff47e8b67775867beb9ce",
     "packages": [
         {
             "name": "kellan/magpierss",
@@ -27,13 +27,67 @@
             "notification-url": "https://packagist.org/downloads/",
             "description": "A simple RSS integration tool",
             "time": "2014-06-26 08:59:34"
+        },
+        {
+            "name": "smarty/smarty",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/smarty-php/smarty.git",
+                "reference": "e3eda8a5f5653d8abb960eb1bc47e3eca679b1b4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/smarty-php/smarty/zipball/e3eda8a5f5653d8abb960eb1bc47e3eca679b1b4",
+                "reference": "e3eda8a5f5653d8abb960eb1bc47e3eca679b1b4",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.2"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "3.1.x-dev"
+                }
+            },
+            "autoload": {
+                "files": [
+                    "libs/bootstrap.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "LGPL-3.0"
+            ],
+            "authors": [
+                {
+                    "name": "Monte Ohrt",
+                    "email": "monte@ohrt.com"
+                },
+                {
+                    "name": "Uwe Tews",
+                    "email": "uwe.tews@googlemail.com"
+                },
+                {
+                    "name": "Rodney Rehm",
+                    "email": "rodney.rehm@medialize.de"
+                }
+            ],
+            "description": "Smarty - the compiling PHP template engine",
+            "homepage": "http://www.smarty.net",
+            "keywords": [
+                "templating"
+            ],
+            "time": "2017-04-17 03:32:24"
         }
     ],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
-        "kellan/magpierss": 20
+        "kellan/magpierss": 20,
+        "smarty/smarty": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,
