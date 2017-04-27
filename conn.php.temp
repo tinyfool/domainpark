@@ -1,0 +1,10 @@
+<?php
+	error_reporting(E_ALL &  ~E_DEPRECATED & ~E_NOTICE);
+	putenv("TZ=Asia/Shanghai");
+	$mysqldb = mysql_connect
+		("127.0.0.1",
+		"root",
+		"");
+	mysql_select_db("tinyhome",$mysqldb);
+	mysql_query("SET NAMES 'utf8'");
+	mysql_set_charset('utf8');

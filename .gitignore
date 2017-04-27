@@ -2,3 +2,4 @@ composer.phar
 /vendor/
 templates_c
 cache
+conn.php
