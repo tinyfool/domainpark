@@ -1,0 +1,701 @@
+O:9:"MagpieRSS":23:{s:6:"parser";i:0;s:12:"current_item";a:0:{}s:5:"items";a:10:{i:0;a:14:{s:5:"title";s:56:"Why Google built TPU instead invent some superpower GPU?";s:4:"link";s:84:"http://tinyfool.org/2017/04/why-google-build-tpu-instead-invent-some-superpower-gpu/";s:8:"comments";s:92:"http://tinyfool.org/2017/04/why-google-build-tpu-instead-invent-some-superpower-gpu/#respond";s:7:"pubdate";s:31:"Mon, 17 Apr 2017 16:49:49 +0000";s:2:"dc";a:1:{s:7:"creator";s:8:"tinyfool";}s:8:"category";s:64:"UncategorizedDeep LearningGoogleGPUMachine LearningTensorflowTPU";s:4:"guid";s:26:"http://tinyfool.org/?p=385";s:11:"description";s:361:"Deep learning researchers always think training is the core problem. Because they always lack funds to purchase the quickest machines. But Google doesn&#8217;t worry this, they just have tons of powerful machines, find resources to train a good model isn&#8217;t very hard for Google. Win some deep learning contests isn&#8217;t the goal of Google, it [&#8230;]";s:7:"content";a:1:{s:7:"encoded";s:1022:"<p>Deep learning researchers always think training is the core problem. Because they always lack funds to purchase the quickest machines. But Google doesn&#8217;t worry this, they just have tons of powerful machines, find resources to train a good model isn&#8217;t very hard for Google.</p>
+<p>Win some deep learning contests isn&#8217;t the goal of Google, it is just their PR tricks. Google want to provide AI cloud services. So they kept releasing their well-trained models, Inception-v3, Word2vec, etc. Most of the customers will use API from Google&#8217;s well-trained models, like Cloud Natural Language API, Cloud Speech API, Cloud Translation API, Cloud Vision API, Cloud Video Intelligence API. Some of them will want to use models that provide by Google or other companies, or just do some fine tune. And only a little of them will want to train their model all from the beginning.</p>
+<p>So, Google cares about service more than training, so they build TPU to speed up service, to reduce service latency.</p>
+";}s:3:"wfw";a:1:{s:10:"commentrss";s:89:"http://tinyfool.org/2017/04/why-google-build-tpu-instead-invent-some-superpower-gpu/feed/";}s:5:"slash";a:1:{s:8:"comments";s:1:"0";}s:7:"summary";s:361:"Deep learning researchers always think training is the core problem. Because they always lack funds to purchase the quickest machines. But Google doesn&#8217;t worry this, they just have tons of powerful machines, find resources to train a good model isn&#8217;t very hard for Google. Win some deep learning contests isn&#8217;t the goal of Google, it [&#8230;]";s:12:"atom_content";s:1022:"<p>Deep learning researchers always think training is the core problem. Because they always lack funds to purchase the quickest machines. But Google doesn&#8217;t worry this, they just have tons of powerful machines, find resources to train a good model isn&#8217;t very hard for Google.</p>
+<p>Win some deep learning contests isn&#8217;t the goal of Google, it is just their PR tricks. Google want to provide AI cloud services. So they kept releasing their well-trained models, Inception-v3, Word2vec, etc. Most of the customers will use API from Google&#8217;s well-trained models, like Cloud Natural Language API, Cloud Speech API, Cloud Translation API, Cloud Vision API, Cloud Video Intelligence API. Some of them will want to use models that provide by Google or other companies, or just do some fine tune. And only a little of them will want to train their model all from the beginning.</p>
+<p>So, Google cares about service more than training, so they build TPU to speed up service, to reduce service latency.</p>
+";s:14:"date_timestamp";i:1492447789;}i:1;a:14:{s:5:"title";s:37:"Programming languages I ever learned.";s:4:"link";s:65:"http://tinyfool.org/2017/03/programming-languages-i-ever-learned/";s:8:"comments";s:74:"http://tinyfool.org/2017/03/programming-languages-i-ever-learned/#comments";s:7:"pubdate";s:31:"Sun, 19 Mar 2017 15:12:20 +0000";s:2:"dc";a:1:{s:7:"creator";s:8:"tinyfool";}s:8:"category";s:13:"Uncategorized";s:4:"guid";s:26:"http://tinyfool.org/?p=381";s:11:"description";s:348:"I learn a lot of them: Basic &#8211; high school pascal &#8211; high school C &#8211; high school C++ &#8211; college VisualBasic &#8211; college ASP &#8211; college Delphi &#8211; college BCB &#8211; college VC &#8211; college PHP &#8211; college Flash &#8211; college VHDL &#8211; at wok Python &#8211; at wok Java &#8211; at wok Matlab [&#8230;]";s:7:"content";a:1:{s:7:"encoded";s:762:"<p>I learn a lot of them:</p>
+<ol>
+<li>Basic &#8211; high school</li>
+<li>pascal &#8211; high school</li>
+<li>C &#8211; high school</li>
+<li>C++ &#8211; college</li>
+<li>VisualBasic &#8211; college</li>
+<li>ASP &#8211; college</li>
+<li>Delphi &#8211; college</li>
+<li>BCB &#8211; college</li>
+<li>VC &#8211; college</li>
+<li>PHP &#8211; college</li>
+<li>Flash &#8211; college</li>
+<li>VHDL &#8211; at wok</li>
+<li>Python &#8211; at wok</li>
+<li>Java &#8211; at wok</li>
+<li>Matlab &#8211; at wok</li>
+<li>Objective-C &#8211; at wok</li>
+<li>Swift &#8211; at wok</li>
+</ol>
+<p>Maybe I missed something , I am an old man now. <img src="https://s.w.org/images/core/emoji/2.2.1/72x72/1f642.png" alt="?" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+";}s:3:"wfw";a:1:{s:10:"commentrss";s:70:"http://tinyfool.org/2017/03/programming-languages-i-ever-learned/feed/";}s:5:"slash";a:1:{s:8:"comments";s:1:"2";}s:7:"summary";s:348:"I learn a lot of them: Basic &#8211; high school pascal &#8211; high school C &#8211; high school C++ &#8211; college VisualBasic &#8211; college ASP &#8211; college Delphi &#8211; college BCB &#8211; college VC &#8211; college PHP &#8211; college Flash &#8211; college VHDL &#8211; at wok Python &#8211; at wok Java &#8211; at wok Matlab [&#8230;]";s:12:"atom_content";s:762:"<p>I learn a lot of them:</p>
+<ol>
+<li>Basic &#8211; high school</li>
+<li>pascal &#8211; high school</li>
+<li>C &#8211; high school</li>
+<li>C++ &#8211; college</li>
+<li>VisualBasic &#8211; college</li>
+<li>ASP &#8211; college</li>
+<li>Delphi &#8211; college</li>
+<li>BCB &#8211; college</li>
+<li>VC &#8211; college</li>
+<li>PHP &#8211; college</li>
+<li>Flash &#8211; college</li>
+<li>VHDL &#8211; at wok</li>
+<li>Python &#8211; at wok</li>
+<li>Java &#8211; at wok</li>
+<li>Matlab &#8211; at wok</li>
+<li>Objective-C &#8211; at wok</li>
+<li>Swift &#8211; at wok</li>
+</ol>
+<p>Maybe I missed something , I am an old man now. <img src="https://s.w.org/images/core/emoji/2.2.1/72x72/1f642.png" alt="?" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+";s:14:"date_timestamp";i:1489936340;}i:2;a:14:{s:5:"title";s:33:"About PSD File Format (PhotoShop)";s:4:"link";s:60:"http://tinyfool.org/2017/03/about-psd-file-format-photoshop/";s:8:"comments";s:68:"http://tinyfool.org/2017/03/about-psd-file-format-photoshop/#respond";s:7:"pubdate";s:31:"Fri, 03 Mar 2017 13:02:39 +0000";s:2:"dc";a:1:{s:7:"creator";s:8:"tinyfool";}s:8:"category";s:11:"AppleiOSMac";s:4:"guid";s:26:"http://tinyfool.org/?p=371";s:11:"description";s:350:"Official document: Adobe Photoshop File Formats Specification iOS / Mac: App PSD Viewer for Photoshop Psd2Xcode OpenSource Codes PSDWriter MMLayershots extract your iOS UI struct to layered photoshop (PSD) file PSD-Font-Reader SFPSDWriter Go programming language PSD/PSB(Photoshop) file reader for Go programming language Ruby psdiff Python PSD Parse";s:7:"content";a:1:{s:7:"encoded";s:1291:"<ul>
+<li>
+<p><strong>Official document:</strong></p>
+<ul>
+<li><a href="http://www.adobe.com/devnet-apps/photoshop/fileformatashtml/">Adobe Photoshop File Formats Specification</a></li>
+</ul>
+</li>
+<li>
+<p><strong>iOS / Mac:</strong></p>
+<ul>
+<li>
+<p>App</p>
+<ul>
+<li><a href="https://itunes.apple.com/us/app/psd-viewer-for-photoshop/id418319722?mt=8">PSD Viewer for Photoshop</a></li>
+<li><a href="http://www.psd2xcode.de/">Psd2Xcode</a> </li>
+</ul>
+</li>
+<li>
+<p>OpenSource Codes</p>
+<ul>
+<li><a href="https://github.com/bengotow/PSDWriter">PSDWriter</a></li>
+<li><a href="https://github.com/vpdn/MMLayershots">MMLayershots</a> extract your iOS UI struct to layered photoshop (PSD) file </li>
+<li><a href="https://github.com/schlu/PSD-Font-Reader">PSD-Font-Reader</a></li>
+<li><a href="https://github.com/shinyfrog/SFPSDWriter">SFPSDWriter</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Go programming language</strong></p>
+<ul>
+<li><a href="https://github.com/oov/psd">PSD/PSB(Photoshop) file reader for Go programming language</a></li>
+</ul>
+</li>
+<li>
+<p><strong>Ruby</strong></p>
+<ul>
+<li><a href="https://github.com/filp/psdiff">psdiff</a></li>
+</ul>
+</li>
+<li>
+<p><strong>Python</strong></p>
+<ul>
+<li><a href="https://github.com/jerem/psdparse">PSD Parse</a></li>
+</ul>
+</li>
+</ul>
+";}s:3:"wfw";a:1:{s:10:"commentrss";s:65:"http://tinyfool.org/2017/03/about-psd-file-format-photoshop/feed/";}s:5:"slash";a:1:{s:8:"comments";s:1:"0";}s:7:"summary";s:350:"Official document: Adobe Photoshop File Formats Specification iOS / Mac: App PSD Viewer for Photoshop Psd2Xcode OpenSource Codes PSDWriter MMLayershots extract your iOS UI struct to layered photoshop (PSD) file PSD-Font-Reader SFPSDWriter Go programming language PSD/PSB(Photoshop) file reader for Go programming language Ruby psdiff Python PSD Parse";s:12:"atom_content";s:1291:"<ul>
+<li>
+<p><strong>Official document:</strong></p>
+<ul>
+<li><a href="http://www.adobe.com/devnet-apps/photoshop/fileformatashtml/">Adobe Photoshop File Formats Specification</a></li>
+</ul>
+</li>
+<li>
+<p><strong>iOS / Mac:</strong></p>
+<ul>
+<li>
+<p>App</p>
+<ul>
+<li><a href="https://itunes.apple.com/us/app/psd-viewer-for-photoshop/id418319722?mt=8">PSD Viewer for Photoshop</a></li>
+<li><a href="http://www.psd2xcode.de/">Psd2Xcode</a> </li>
+</ul>
+</li>
+<li>
+<p>OpenSource Codes</p>
+<ul>
+<li><a href="https://github.com/bengotow/PSDWriter">PSDWriter</a></li>
+<li><a href="https://github.com/vpdn/MMLayershots">MMLayershots</a> extract your iOS UI struct to layered photoshop (PSD) file </li>
+<li><a href="https://github.com/schlu/PSD-Font-Reader">PSD-Font-Reader</a></li>
+<li><a href="https://github.com/shinyfrog/SFPSDWriter">SFPSDWriter</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Go programming language</strong></p>
+<ul>
+<li><a href="https://github.com/oov/psd">PSD/PSB(Photoshop) file reader for Go programming language</a></li>
+</ul>
+</li>
+<li>
+<p><strong>Ruby</strong></p>
+<ul>
+<li><a href="https://github.com/filp/psdiff">psdiff</a></li>
+</ul>
+</li>
+<li>
+<p><strong>Python</strong></p>
+<ul>
+<li><a href="https://github.com/jerem/psdparse">PSD Parse</a></li>
+</ul>
+</li>
+</ul>
+";s:14:"date_timestamp";i:1488546159;}i:3;a:14:{s:5:"title";s:64:"How to install Theano on Mac OS X EI Capitan with OpenCL support";s:4:"link";s:80:"http://tinyfool.org/2016/04/how-to-install-theano-opencl-on-mac-os-x-ei-caption/";s:8:"comments";s:89:"http://tinyfool.org/2016/04/how-to-install-theano-opencl-on-mac-os-x-ei-caption/#comments";s:7:"pubdate";s:31:"Fri, 01 Apr 2016 07:18:33 +0000";s:2:"dc";a:1:{s:7:"creator";s:8:"tinyfool";}s:8:"category";s:44:"Machine LearningDeep LearningMacOpenCLTheano";s:4:"guid";s:26:"http://tinyfool.org/?p=348";s:11:"description";s:398:"I have two Mac, a Mac pro and Macbook pro. They both use AMD display card, so I can&#8217;t use CUDA speed up machine learning, so I want to use OpenCL. First install some requirements: [crayon-58fae34397ae9946354243/] Then make install environment ( use virtualenv can make everything easy ): [crayon-58fae34397afc924489165/] Install Theano: [crayon-58fae34397b05677195844/] Then you can [&#8230;]";s:7:"content";a:1:{s:7:"encoded";s:5307:"<p>I have two Mac, a Mac pro and Macbook pro. They both use AMD display card, so I can&#8217;t use CUDA speed up machine learning, so I want to use OpenCL.</p>
+<p>First install some requirements:</p>
+<p></p><pre class="crayon-plain-tag">brew update
+brew install cmake
+
+sudo easy_install pip
+sudo pip install virtualenv</pre><p></p>
+<p>Then make install environment ( use virtualenv can make everything easy ):</p>
+<p></p><pre class="crayon-plain-tag">mkdir Theano
+cd Theano
+virtualenv venv
+source venv/bin/activate
+
+sudo easy_install nose
+sudo pip install NumPy SciPy
+sudo pip install Cython</pre><p></p>
+<p>Install Theano:</p>
+<p></p><pre class="crayon-plain-tag">sudo pip install Theano</pre><p></p>
+<p>Then you can use this demo code ( test.py ) to test your Theano:</p>
+<p></p><pre class="crayon-plain-tag">from theano import function, config, shared, tensor, sandbox
+import numpy
+import time
+
+vlen = 10 * 30 * 768  # 10 x #cores x # threads per core
+iters = 1000
+
+rng = numpy.random.RandomState(22)
+x = shared(numpy.asarray(rng.rand(vlen), config.floatX))
+f = function([], tensor.exp(x))
+print(f.maker.fgraph.toposort())
+t0 = time.time()
+for i in range(iters):
+    r = f()
+t1 = time.time()
+print(&quot;Looping %d times took %f seconds&quot; % (iters, t1 - t0))
+print(&quot;Result is %s&quot; % (r,))
+if numpy.any([isinstance(x.op, tensor.Elemwise) and
+              ('Gpu' not in type(x.op).__name__)
+              for x in f.maker.fgraph.toposort()]):
+    print('Used the cpu')
+else:
+    print('Used the gpu')</pre><p></p>
+<p>This test will show something like this:</p>
+<p></p><pre class="crayon-plain-tag">$python test.py
+[Elemwise{exp,no_inplace}(&amp;lt;TensorType(float64, vector)&amp;gt;)]
+Looping 1000 times took 1.492254 seconds
+Result is [ 1.23178032  1.61879341  1.52278065 ...,  2.20771815  2.29967753
+  1.62323285]
+Used the cpu</pre><p></p>
+<p>It just do some math 1000 time, took 1.492254 seconds, and use cpu.</p>
+<p>Then we must install libgpuarray to make Theano support OpenCL:</p>
+<p></p><pre class="crayon-plain-tag">git clone https://github.com/Theano/libgpuarray.git
+cd libgpuarray
+
+mkdir build
+cd build
+cmake ..
+make
+make install
+
+cd ..
+export CPATH=$CPATH:/usr/local/include
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib
+export LIBRARY_PATH=$LIBRARY_PATH:/usr/local/lib
+python setup.py build
+sudo python setup.py install</pre><p></p>
+<p>Then we can use THEANO_FLAGS to set use OpenCL device.</p>
+<p>Use OpenCL &amp; Cpu in my Mac pro:</p>
+<p></p><pre class="crayon-plain-tag">$THEANO_FLAGS=device=opencl0:0 python test.py
+Mapped name None to device opencl0:0: Intel(R) Xeon(R) CPU E5-1620 v2 @ 3.70GHz
+[GpuElemwise{exp,no_inplace}(&amp;lt;GpuArrayType&amp;lt;None&amp;gt;(float64, (False,))&amp;gt;), HostFromGpu(gpuarray)(GpuElemwise{exp,no_inplace}.0)]
+Looping 1000 times took 1.750073 seconds
+Result is [ 1.23178032  1.61879341  1.52278065 ...,  2.20771815  2.29967753
+  1.62323285]
+Used the gpu</pre><p></p>
+<p>Note: Code showed &#8220;Used the gnu&#8221;, but as you can see, this was using CPU.</p>
+<p>Use OpenCL &amp; GPU 1 in My Mac pro:</p>
+<p></p><pre class="crayon-plain-tag">THEANO_FLAGS=device=opencl0:1 python test.py
+Mapped name None to device opencl0:1: AMD Radeon HD - FirePro D300 Compute Engine
+[GpuElemwise{exp,no_inplace}(&amp;lt;GpuArrayType&amp;lt;None&amp;gt;(float64, (False,))&amp;gt;), HostFromGpu(gpuarray)(GpuElemwise{exp,no_inplace}.0)]
+Looping 1000 times took 0.623279 seconds
+Result is [ 1.23178032  1.61879341  1.52278065 ...,  2.20771815  2.29967753
+  1.62323285]
+Used the gpu</pre><p></p>
+<p>Finally, we can use OpenCL and GPU.</p>
+<p>Performance:</p>
+<p>My Mac pro</p>
+<p><a href="http://tinyfool.org/wp-content/uploads/2016/04/????-2016-04-01-15.09.25.png" rel="attachment wp-att-355"><img src="http://tinyfool.org/wp-content/uploads/2016/04/????-2016-04-01-15.09.25.png" alt="???? 2016-04-01 15.09.25" width="900" height="266" class="alignnone size-full wp-image-355" srcset="http://tinyfool.org/wp-content/uploads/2016/04/????-2016-04-01-15.09.25.png 900w, http://tinyfool.org/wp-content/uploads/2016/04/????-2016-04-01-15.09.25-300x89.png 300w, http://tinyfool.org/wp-content/uploads/2016/04/????-2016-04-01-15.09.25-768x227.png 768w" sizes="(max-width: 900px) 100vw, 900px" /></a></p>
+<p>My Macbook pro</p>
+<p><a href="http://tinyfool.org/wp-content/uploads/2016/04/????-2016-04-01-15.09.32.png" rel="attachment wp-att-358"><img src="http://tinyfool.org/wp-content/uploads/2016/04/????-2016-04-01-15.09.32.png" alt="???? 2016-04-01 15.09.32" width="896" height="262" class="alignnone size-full wp-image-358" srcset="http://tinyfool.org/wp-content/uploads/2016/04/????-2016-04-01-15.09.32.png 896w, http://tinyfool.org/wp-content/uploads/2016/04/????-2016-04-01-15.09.32-300x88.png 300w, http://tinyfool.org/wp-content/uploads/2016/04/????-2016-04-01-15.09.32-768x225.png 768w" sizes="(max-width: 896px) 100vw, 896px" /></a></p>
+<p>Note: Now we can use Theano and OpenCL. But I was very sad, when I found out Theano is using CUNN, so when you use Theano to do Neural Network, we still need CUDA support. Just for now I don&#8217;t know how to solve this problem.</p>
+<p><a href="http://codechina.org/index.php/2016/04/01/how-to-install-theano-on-mac-os-x-ei-caption-with-opencl-support/">Chinese version of this article</a>.</p>
+";}s:3:"wfw";a:1:{s:10:"commentrss";s:85:"http://tinyfool.org/2016/04/how-to-install-theano-opencl-on-mac-os-x-ei-caption/feed/";}s:5:"slash";a:1:{s:8:"comments";s:1:"2";}s:7:"summary";s:398:"I have two Mac, a Mac pro and Macbook pro. They both use AMD display card, so I can&#8217;t use CUDA speed up machine learning, so I want to use OpenCL. First install some requirements: [crayon-58fae34397ae9946354243/] Then make install environment ( use virtualenv can make everything easy ): [crayon-58fae34397afc924489165/] Install Theano: [crayon-58fae34397b05677195844/] Then you can [&#8230;]";s:12:"atom_content";s:5307:"<p>I have two Mac, a Mac pro and Macbook pro. They both use AMD display card, so I can&#8217;t use CUDA speed up machine learning, so I want to use OpenCL.</p>
+<p>First install some requirements:</p>
+<p></p><pre class="crayon-plain-tag">brew update
+brew install cmake
+
+sudo easy_install pip
+sudo pip install virtualenv</pre><p></p>
+<p>Then make install environment ( use virtualenv can make everything easy ):</p>
+<p></p><pre class="crayon-plain-tag">mkdir Theano
+cd Theano
+virtualenv venv
+source venv/bin/activate
+
+sudo easy_install nose
+sudo pip install NumPy SciPy
+sudo pip install Cython</pre><p></p>
+<p>Install Theano:</p>
+<p></p><pre class="crayon-plain-tag">sudo pip install Theano</pre><p></p>
+<p>Then you can use this demo code ( test.py ) to test your Theano:</p>
+<p></p><pre class="crayon-plain-tag">from theano import function, config, shared, tensor, sandbox
+import numpy
+import time
+
+vlen = 10 * 30 * 768  # 10 x #cores x # threads per core
+iters = 1000
+
+rng = numpy.random.RandomState(22)
+x = shared(numpy.asarray(rng.rand(vlen), config.floatX))
+f = function([], tensor.exp(x))
+print(f.maker.fgraph.toposort())
+t0 = time.time()
+for i in range(iters):
+    r = f()
+t1 = time.time()
+print(&quot;Looping %d times took %f seconds&quot; % (iters, t1 - t0))
+print(&quot;Result is %s&quot; % (r,))
+if numpy.any([isinstance(x.op, tensor.Elemwise) and
+              ('Gpu' not in type(x.op).__name__)
+              for x in f.maker.fgraph.toposort()]):
+    print('Used the cpu')
+else:
+    print('Used the gpu')</pre><p></p>
+<p>This test will show something like this:</p>
+<p></p><pre class="crayon-plain-tag">$python test.py
+[Elemwise{exp,no_inplace}(&amp;lt;TensorType(float64, vector)&amp;gt;)]
+Looping 1000 times took 1.492254 seconds
+Result is [ 1.23178032  1.61879341  1.52278065 ...,  2.20771815  2.29967753
+  1.62323285]
+Used the cpu</pre><p></p>
+<p>It just do some math 1000 time, took 1.492254 seconds, and use cpu.</p>
+<p>Then we must install libgpuarray to make Theano support OpenCL:</p>
+<p></p><pre class="crayon-plain-tag">git clone https://github.com/Theano/libgpuarray.git
+cd libgpuarray
+
+mkdir build
+cd build
+cmake ..
+make
+make install
+
+cd ..
+export CPATH=$CPATH:/usr/local/include
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib
+export LIBRARY_PATH=$LIBRARY_PATH:/usr/local/lib
+python setup.py build
+sudo python setup.py install</pre><p></p>
+<p>Then we can use THEANO_FLAGS to set use OpenCL device.</p>
+<p>Use OpenCL &amp; Cpu in my Mac pro:</p>
+<p></p><pre class="crayon-plain-tag">$THEANO_FLAGS=device=opencl0:0 python test.py
+Mapped name None to device opencl0:0: Intel(R) Xeon(R) CPU E5-1620 v2 @ 3.70GHz
+[GpuElemwise{exp,no_inplace}(&amp;lt;GpuArrayType&amp;lt;None&amp;gt;(float64, (False,))&amp;gt;), HostFromGpu(gpuarray)(GpuElemwise{exp,no_inplace}.0)]
+Looping 1000 times took 1.750073 seconds
+Result is [ 1.23178032  1.61879341  1.52278065 ...,  2.20771815  2.29967753
+  1.62323285]
+Used the gpu</pre><p></p>
+<p>Note: Code showed &#8220;Used the gnu&#8221;, but as you can see, this was using CPU.</p>
+<p>Use OpenCL &amp; GPU 1 in My Mac pro:</p>
+<p></p><pre class="crayon-plain-tag">THEANO_FLAGS=device=opencl0:1 python test.py
+Mapped name None to device opencl0:1: AMD Radeon HD - FirePro D300 Compute Engine
+[GpuElemwise{exp,no_inplace}(&amp;lt;GpuArrayType&amp;lt;None&amp;gt;(float64, (False,))&amp;gt;), HostFromGpu(gpuarray)(GpuElemwise{exp,no_inplace}.0)]
+Looping 1000 times took 0.623279 seconds
+Result is [ 1.23178032  1.61879341  1.52278065 ...,  2.20771815  2.29967753
+  1.62323285]
+Used the gpu</pre><p></p>
+<p>Finally, we can use OpenCL and GPU.</p>
+<p>Performance:</p>
+<p>My Mac pro</p>
+<p><a href="http://tinyfool.org/wp-content/uploads/2016/04/????-2016-04-01-15.09.25.png" rel="attachment wp-att-355"><img src="http://tinyfool.org/wp-content/uploads/2016/04/????-2016-04-01-15.09.25.png" alt="???? 2016-04-01 15.09.25" width="900" height="266" class="alignnone size-full wp-image-355" srcset="http://tinyfool.org/wp-content/uploads/2016/04/????-2016-04-01-15.09.25.png 900w, http://tinyfool.org/wp-content/uploads/2016/04/????-2016-04-01-15.09.25-300x89.png 300w, http://tinyfool.org/wp-content/uploads/2016/04/????-2016-04-01-15.09.25-768x227.png 768w" sizes="(max-width: 900px) 100vw, 900px" /></a></p>
+<p>My Macbook pro</p>
+<p><a href="http://tinyfool.org/wp-content/uploads/2016/04/????-2016-04-01-15.09.32.png" rel="attachment wp-att-358"><img src="http://tinyfool.org/wp-content/uploads/2016/04/????-2016-04-01-15.09.32.png" alt="???? 2016-04-01 15.09.32" width="896" height="262" class="alignnone size-full wp-image-358" srcset="http://tinyfool.org/wp-content/uploads/2016/04/????-2016-04-01-15.09.32.png 896w, http://tinyfool.org/wp-content/uploads/2016/04/????-2016-04-01-15.09.32-300x88.png 300w, http://tinyfool.org/wp-content/uploads/2016/04/????-2016-04-01-15.09.32-768x225.png 768w" sizes="(max-width: 896px) 100vw, 896px" /></a></p>
+<p>Note: Now we can use Theano and OpenCL. But I was very sad, when I found out Theano is using CUNN, so when you use Theano to do Neural Network, we still need CUDA support. Just for now I don&#8217;t know how to solve this problem.</p>
+<p><a href="http://codechina.org/index.php/2016/04/01/how-to-install-theano-on-mac-os-x-ei-caption-with-opencl-support/">Chinese version of this article</a>.</p>
+";s:14:"date_timestamp";i:1459495113;}i:4;a:14:{s:5:"title";s:9:"Blue soup";s:4:"link";s:38:"http://tinyfool.org/2016/03/blue-soup/";s:8:"comments";s:46:"http://tinyfool.org/2016/03/blue-soup/#respond";s:7:"pubdate";s:31:"Sun, 20 Mar 2016 14:20:08 +0000";s:2:"dc";a:1:{s:7:"creator";s:8:"tinyfool";}s:8:"category";s:13:"Uncategorized";s:4:"guid";s:26:"http://tinyfool.org/?p=344";s:11:"description";s:32:"from Bridget Jones&#8217;s Diary";s:7:"content";a:1:{s:7:"encoded";s:733:"<p><a href="http://tinyfool.org/wp-content/uploads/2016/03/????-2016-03-20-21.50.26.png" rel="attachment wp-att-345"><img src="http://tinyfool.org/wp-content/uploads/2016/03/????-2016-03-20-21.50.26-1024x590.png" alt="???? 2016-03-20 21.50.26" width="640" height="369" class="alignnone size-large wp-image-345" srcset="http://tinyfool.org/wp-content/uploads/2016/03/????-2016-03-20-21.50.26-1024x590.png 1024w, http://tinyfool.org/wp-content/uploads/2016/03/????-2016-03-20-21.50.26-300x173.png 300w, http://tinyfool.org/wp-content/uploads/2016/03/????-2016-03-20-21.50.26-768x443.png 768w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+<p>from <a href="http://www.imdb.com/title/tt0243155/">Bridget Jones&#8217;s Diary</a></p>
+";}s:3:"wfw";a:1:{s:10:"commentrss";s:43:"http://tinyfool.org/2016/03/blue-soup/feed/";}s:5:"slash";a:1:{s:8:"comments";s:1:"0";}s:7:"summary";s:32:"from Bridget Jones&#8217;s Diary";s:12:"atom_content";s:733:"<p><a href="http://tinyfool.org/wp-content/uploads/2016/03/????-2016-03-20-21.50.26.png" rel="attachment wp-att-345"><img src="http://tinyfool.org/wp-content/uploads/2016/03/????-2016-03-20-21.50.26-1024x590.png" alt="???? 2016-03-20 21.50.26" width="640" height="369" class="alignnone size-large wp-image-345" srcset="http://tinyfool.org/wp-content/uploads/2016/03/????-2016-03-20-21.50.26-1024x590.png 1024w, http://tinyfool.org/wp-content/uploads/2016/03/????-2016-03-20-21.50.26-300x173.png 300w, http://tinyfool.org/wp-content/uploads/2016/03/????-2016-03-20-21.50.26-768x443.png 768w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+<p>from <a href="http://www.imdb.com/title/tt0243155/">Bridget Jones&#8217;s Diary</a></p>
+";s:14:"date_timestamp";i:1458483608;}i:5;a:14:{s:5:"title";s:71:"Before you install Tensorflow on your Mac or your AWS, you must know !!";s:4:"link";s:96:"http://tinyfool.org/2016/03/before-you-install-tensorflow-on-your-mac-or-your-aws-you-must-know/";s:8:"comments";s:105:"http://tinyfool.org/2016/03/before-you-install-tensorflow-on-your-mac-or-your-aws-you-must-know/#comments";s:7:"pubdate";s:31:"Thu, 17 Mar 2016 14:23:17 +0000";s:2:"dc";a:1:{s:7:"creator";s:8:"tinyfool";}s:8:"category";s:13:"Uncategorized";s:4:"guid";s:26:"http://tinyfool.org/?p=341";s:11:"description";s:311:"Recently I started playing Tensorflow on my mac, it very fun. But I found there are some traps about Tensorflow on Mac and AWS, so tell you know. Tensorflow is very slow. Now Tensorflow doesn&#8217;t support CUDA on Mac officially, but you can easy find a way to compile it to support CUDA. But almost [&#8230;]";s:7:"content";a:1:{s:7:"encoded";s:1379:"<p>Recently I started playing Tensorflow on my mac, it very fun. But I found there are some traps about Tensorflow on Mac and AWS, so tell you know.</p>
+<ol>
+<li>Tensorflow is very slow.</li>
+<li>Now Tensorflow doesn&#8217;t support CUDA on Mac officially, but you can easy find a way to <a href="https://medium.com/@fabmilo/how-to-compile-tensorflow-with-cuda-support-on-osx-fd27108e27e1#.wk3tac4vw">compile it to support CUDA</a>. But almost all new Mac don&#8217;t contain a NVIDIA display card, so you still can&#8217;t use CUDA. <a href="https://github.com/tensorflow/tensorflow/issues/22">OpenCL support</a> is on the way, open to contributions, but how knows.</li>
+<li>The HPC of AWS ( g2.2xlarge<br />
+and g2.8xlarge ) contain NVIDIA display card, but the card is blow the requirement of default CUDA setting of Tensorflow, so you can&#8217;t user precompiled Tensorflow, you need compile it by yourself, and set <strong>compute capability is 3.0</strong>. And there is a AMI (Amazon Linux x64 AMI with TensorFlow (GPU)), already include Tensorflow on AWA&#8217; AMI market, but this AMI is using precompiled Tensorflow, so it is useless, you can&#8217;t use the GPU. And even after your compile and install you own Tensorflow, there is a bug of NVIDIA display driver card, you must update NVIDIA display card driver, and finally you can use GPU from the HPC.</li>
+</ol>
+";}s:3:"wfw";a:1:{s:10:"commentrss";s:101:"http://tinyfool.org/2016/03/before-you-install-tensorflow-on-your-mac-or-your-aws-you-must-know/feed/";}s:5:"slash";a:1:{s:8:"comments";s:1:"4";}s:7:"summary";s:311:"Recently I started playing Tensorflow on my mac, it very fun. But I found there are some traps about Tensorflow on Mac and AWS, so tell you know. Tensorflow is very slow. Now Tensorflow doesn&#8217;t support CUDA on Mac officially, but you can easy find a way to compile it to support CUDA. But almost [&#8230;]";s:12:"atom_content";s:1379:"<p>Recently I started playing Tensorflow on my mac, it very fun. But I found there are some traps about Tensorflow on Mac and AWS, so tell you know.</p>
+<ol>
+<li>Tensorflow is very slow.</li>
+<li>Now Tensorflow doesn&#8217;t support CUDA on Mac officially, but you can easy find a way to <a href="https://medium.com/@fabmilo/how-to-compile-tensorflow-with-cuda-support-on-osx-fd27108e27e1#.wk3tac4vw">compile it to support CUDA</a>. But almost all new Mac don&#8217;t contain a NVIDIA display card, so you still can&#8217;t use CUDA. <a href="https://github.com/tensorflow/tensorflow/issues/22">OpenCL support</a> is on the way, open to contributions, but how knows.</li>
+<li>The HPC of AWS ( g2.2xlarge<br />
+and g2.8xlarge ) contain NVIDIA display card, but the card is blow the requirement of default CUDA setting of Tensorflow, so you can&#8217;t user precompiled Tensorflow, you need compile it by yourself, and set <strong>compute capability is 3.0</strong>. And there is a AMI (Amazon Linux x64 AMI with TensorFlow (GPU)), already include Tensorflow on AWA&#8217; AMI market, but this AMI is using precompiled Tensorflow, so it is useless, you can&#8217;t use the GPU. And even after your compile and install you own Tensorflow, there is a bug of NVIDIA display driver card, you must update NVIDIA display card driver, and finally you can use GPU from the HPC.</li>
+</ol>
+";s:14:"date_timestamp";i:1458224597;}i:6;a:14:{s:5:"title";s:24:"Start to play Tensorflow";s:4:"link";s:32:"http://tinyfool.org/2016/03/336/";s:8:"comments";s:40:"http://tinyfool.org/2016/03/336/#respond";s:7:"pubdate";s:31:"Fri, 11 Mar 2016 00:31:23 +0000";s:2:"dc";a:1:{s:7:"creator";s:8:"tinyfool";}s:8:"category";s:13:"Uncategorized";s:4:"guid";s:26:"http://tinyfool.org/?p=336";s:11:"description";s:194:"Jeff Dean talk about &#8220;Large-Scale Deep Learning for Intelligent Computer Systems&#8221; Tensorflow website How to compile tensorflow with CUDA support on OSX Issue about add OpenCL support";s:7:"content";a:1:{s:7:"encoded";s:505:"<p><a href="https://www.youtube.com/watch?v=QSaZGT4-6EY">Jeff Dean talk about &#8220;Large-Scale Deep Learning for Intelligent Computer Systems&#8221;</a></p>
+<p><a href="https://www.tensorflow.org/">Tensorflow website</a></p>
+<p><a href="https://medium.com/@fabmilo/how-to-compile-tensorflow-with-cuda-support-on-osx-fd27108e27e1#.wk3tac4vw">How to compile tensorflow with CUDA support on OSX</a></p>
+<p><a href="https://github.com/tensorflow/tensorflow/issues/22">Issue about add OpenCL support</a></p>
+";}s:3:"wfw";a:1:{s:10:"commentrss";s:37:"http://tinyfool.org/2016/03/336/feed/";}s:5:"slash";a:1:{s:8:"comments";s:1:"0";}s:7:"summary";s:194:"Jeff Dean talk about &#8220;Large-Scale Deep Learning for Intelligent Computer Systems&#8221; Tensorflow website How to compile tensorflow with CUDA support on OSX Issue about add OpenCL support";s:12:"atom_content";s:505:"<p><a href="https://www.youtube.com/watch?v=QSaZGT4-6EY">Jeff Dean talk about &#8220;Large-Scale Deep Learning for Intelligent Computer Systems&#8221;</a></p>
+<p><a href="https://www.tensorflow.org/">Tensorflow website</a></p>
+<p><a href="https://medium.com/@fabmilo/how-to-compile-tensorflow-with-cuda-support-on-osx-fd27108e27e1#.wk3tac4vw">How to compile tensorflow with CUDA support on OSX</a></p>
+<p><a href="https://github.com/tensorflow/tensorflow/issues/22">Issue about add OpenCL support</a></p>
+";s:14:"date_timestamp";i:1457656283;}i:7;a:14:{s:5:"title";s:29:"How to record audio use Swift";s:4:"link";s:58:"http://tinyfool.org/2016/01/how-to-record-audio-use-swift/";s:8:"comments";s:66:"http://tinyfool.org/2016/01/how-to-record-audio-use-swift/#respond";s:7:"pubdate";s:31:"Wed, 06 Jan 2016 14:56:55 +0000";s:2:"dc";a:1:{s:7:"creator";s:8:"tinyfool";}s:8:"category";s:13:"Uncategorized";s:4:"guid";s:26:"http://tinyfool.org/?p=331";s:11:"description";s:32:"[crayon-58fae34399f6b691492512/]";s:7:"content";a:1:{s:7:"encoded";s:1105:"<p></p><pre class="crayon-plain-tag">class Recorder {
+
+    var audioRecorder:AVAudioRecorder!
+
+    func record(){
+
+        let audioSession:AVAudioSession = AVAudioSession.sharedInstance()
+
+        try! audioSession.setCategory(AVAudioSessionCategoryPlayAndRecord)
+
+        try! audioSession.setActive(true)
+
+        let documents: AnyObject = NSSearchPathForDirectoriesInDomains( NSSearchPathDirectory.DocumentDirectory,  NSSearchPathDomainMask.UserDomainMask, true)[0]
+
+        let str =  documents.stringByAppendingPathComponent(&quot;recordTest.caf&quot;)
+        let url = NSURL.fileURLWithPath(str as String)
+
+        let recordSettings:[String : AnyObject] = [AVFormatIDKey:NSNumber(unsignedInt:kAudioFormatAppleIMA4),
+            AVSampleRateKey:44100.0,
+            AVNumberOfChannelsKey:2,AVEncoderBitRateKey:12800,
+            AVLinearPCMBitDepthKey:16,
+            AVEncoderAudioQualityKey:AVAudioQuality.Max.rawValue]
+
+        print(&quot;url : \(url)&quot;)
+
+        try! audioRecorder = AVAudioRecorder(URL:url, settings: recordSettings)
+        audioRecorder.record()
+    }
+}</pre><p></p>
+";}s:3:"wfw";a:1:{s:10:"commentrss";s:63:"http://tinyfool.org/2016/01/how-to-record-audio-use-swift/feed/";}s:5:"slash";a:1:{s:8:"comments";s:1:"0";}s:7:"summary";s:32:"[crayon-58fae34399f6b691492512/]";s:12:"atom_content";s:1105:"<p></p><pre class="crayon-plain-tag">class Recorder {
+
+    var audioRecorder:AVAudioRecorder!
+
+    func record(){
+
+        let audioSession:AVAudioSession = AVAudioSession.sharedInstance()
+
+        try! audioSession.setCategory(AVAudioSessionCategoryPlayAndRecord)
+
+        try! audioSession.setActive(true)
+
+        let documents: AnyObject = NSSearchPathForDirectoriesInDomains( NSSearchPathDirectory.DocumentDirectory,  NSSearchPathDomainMask.UserDomainMask, true)[0]
+
+        let str =  documents.stringByAppendingPathComponent(&quot;recordTest.caf&quot;)
+        let url = NSURL.fileURLWithPath(str as String)
+
+        let recordSettings:[String : AnyObject] = [AVFormatIDKey:NSNumber(unsignedInt:kAudioFormatAppleIMA4),
+            AVSampleRateKey:44100.0,
+            AVNumberOfChannelsKey:2,AVEncoderBitRateKey:12800,
+            AVLinearPCMBitDepthKey:16,
+            AVEncoderAudioQualityKey:AVAudioQuality.Max.rawValue]
+
+        print(&quot;url : \(url)&quot;)
+
+        try! audioRecorder = AVAudioRecorder(URL:url, settings: recordSettings)
+        audioRecorder.record()
+    }
+}</pre><p></p>
+";s:14:"date_timestamp";i:1452092215;}i:8;a:14:{s:5:"title";s:35:"Apple Xcode documents reading guide";s:4:"link";s:64:"http://tinyfool.org/2016/01/apple-xcode-documents-reading-guide/";s:8:"comments";s:72:"http://tinyfool.org/2016/01/apple-xcode-documents-reading-guide/#respond";s:7:"pubdate";s:31:"Mon, 04 Jan 2016 15:38:48 +0000";s:2:"dc";a:1:{s:7:"creator";s:8:"tinyfool";}s:8:"category";s:13:"Uncategorized";s:4:"guid";s:26:"http://tinyfool.org/?p=310";s:11:"description";s:339:"The structure of Xcode documents As above, when you open Xcode documents, the whole interface build by left side area, and right side content area. You can choose different documents sets from left side area. Normally your Xcode documents includes some iOS documents sets, some Mac OS X documents sets, and a Xcode documents set. [&#8230;]";s:7:"content";a:1:{s:7:"encoded";s:17552:"<h2>The structure of Xcode documents</h2>
+<p><a href="http://tinyfool.org/wp-content/uploads/2015/12/xcodedocument.png" rel="attachment wp-att-311"><img src="http://tinyfool.org/wp-content/uploads/2015/12/xcodedocument-1024x553.png" alt="xcodedocument" width="640" height="346" class="alignnone size-large wp-image-311" srcset="http://tinyfool.org/wp-content/uploads/2015/12/xcodedocument-1024x553.png 1024w, http://tinyfool.org/wp-content/uploads/2015/12/xcodedocument-300x162.png 300w, http://tinyfool.org/wp-content/uploads/2015/12/xcodedocument-768x415.png 768w, http://tinyfool.org/wp-content/uploads/2015/12/xcodedocument.png 1554w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+<p>As above, when you open Xcode documents, the whole interface build by left side area, and right side content area. You can choose different documents sets from left side area. Normally your Xcode documents includes some iOS documents sets, some Mac OS X documents sets, and a Xcode documents set.</p>
+<p>If the documents set you want isn&#8217;t available here, you can choose Preferences menu of Xcode, the choose Downloads -> Documentation. You can find installed documents sets, undownloaded documents sets, you can free choose what you want. Like blow:</p>
+<p><a href="http://tinyfool.org/wp-content/uploads/2016/01/xcodedownload.png" rel="attachment wp-att-313"><img src="http://tinyfool.org/wp-content/uploads/2016/01/xcodedownload.png" alt="xcodedownload" width="864" height="662" class="alignnone size-full wp-image-313" srcset="http://tinyfool.org/wp-content/uploads/2016/01/xcodedownload.png 864w, http://tinyfool.org/wp-content/uploads/2016/01/xcodedownload-300x230.png 300w, http://tinyfool.org/wp-content/uploads/2016/01/xcodedownload-768x588.png 768w" sizes="(max-width: 864px) 100vw, 864px" /></a></p>
+<p>Then look at left side of the content are, this is the structure of a documents set, as blow:</p>
+<p><a href="http://tinyfool.org/wp-content/uploads/2016/01/xcodedocnav.png" rel="attachment wp-att-315"><img src="http://tinyfool.org/wp-content/uploads/2016/01/xcodedocnav.png" alt="xcodedocnav" width="226" height="644" class="alignnone size-full wp-image-315" srcset="http://tinyfool.org/wp-content/uploads/2016/01/xcodedocnav.png 226w, http://tinyfool.org/wp-content/uploads/2016/01/xcodedocnav-105x300.png 105w" sizes="(max-width: 226px) 100vw, 226px" /></a></p>
+<p>First is Resource Types, all the articles in documents set must be one of the types:</p>
+<ol>
+<li><strong>Getting Started</strong> &#8212; It is for the totally beginner. Recommend all beginners read them, there are some articles to help you establish the basic concepts, will make your next steps more easier. </li>
+<li><strong>Guides</strong> &#8212; It is the best part of the documents, if you know how to read guides, you don&#8217;t need buy any books. Guides of Xcode documents, is a kind of step by step articles, tell you how to solve a problem, how to use a framework of Cocoa, how to understand the system, and so on. Programmers are familiar with reference, it is just like a dictionary. But reference normally is fragment knowledge, you need something to connect the dots, to get the big picture, guides will help you to do it.</li>
+<li><strong>Reference</strong> &#8212; It is just like a dictionary, when you try to find detail information of a class, a method or a function, you look at their reference pages.</li>
+<li><strong>Release Notes</strong> &#8212; It will tell you what is new in a new iOS/Mac version, the new features, new APIs, new way to do something. When you try to learn new system, compare different APIs in different version, you may want check them. </li>
+<li><strong>Sample Code</strong> &#8212; Apple provide a lot of codes, help you understand APIs and technologies. Strong Recommend you look into them. Sometimes if you only read documents, you can&#8217;t get everything. And all these codes is written by Apple engineers, you can learn from masters, and follow the trends of code style.</li>
+<li><strong>Technical Notes</strong> &#8212; There are a lot of technical articles, you may want read it when you have some free time.</li>
+<li><strong>Technical Q&amp;A</strong> &#8212; Frequently asked questions and answers.</li>
+<li><strong>Video</strong> &#8212; Mainly WWDC videos. Strong Recommend you watch, if you want to dig deeper.</li>
+</ol>
+<p>Normally <strong>reference</strong>, <strong>release notes</strong>, <strong>sample code</strong>, <strong>technical notes</strong> and <strong>Technical Q&amp;A</strong>?is for you to search. <strong>Getting started</strong> and <strong>guides</strong> is for you to read.</p>
+<p>Then is the topics:</p>
+<ol>
+<li><strong>Audio &amp; Video</strong></li>
+<li><strong>Languages &amp; Utilities</strong></li>
+<li><strong>Mathematical Computation</strong></li>
+<li><strong>Xcode</strong></li>
+<li><strong>Data Management</strong></li>
+<li><strong>General</strong></li>
+<li><strong>Graphics &amp; Animation</strong></li>
+<li><strong>Networking &amp; Internet</strong></li>
+<li><strong>Performance</strong></li>
+<li><strong>Security</strong></li>
+<li><strong>User Experience</strong></li>
+</ol>
+<p>It is very easy to understand.</p>
+<p>Then it is the Frameworks:</p>
+<ol>
+<li>Cocoa Touch Layer</li>
+<li>Media Layer</li>
+<li>Core Services Layer</li>
+<li>Core OS Layer</li>
+</ol>
+<p>Types, topics and frameworks is three different dimensions to help understand and locate the documents you want.</p>
+<p>Now look at the right of content area. On the top is a document filter, as blow:</p>
+<p><a href="http://tinyfool.org/wp-content/uploads/2016/01/xcodedocumentfilter.png" rel="attachment wp-att-319"><img src="http://tinyfool.org/wp-content/uploads/2016/01/xcodedocumentfilter.png" alt="xcodedocumentfilter" width="803" height="181" class="alignnone size-full wp-image-319" srcset="http://tinyfool.org/wp-content/uploads/2016/01/xcodedocumentfilter.png 803w, http://tinyfool.org/wp-content/uploads/2016/01/xcodedocumentfilter-300x68.png 300w, http://tinyfool.org/wp-content/uploads/2016/01/xcodedocumentfilter-768x173.png 768w" sizes="(max-width: 803px) 100vw, 803px" /></a></p>
+<p>For example, if you want read guides about performance, you may want select <strong>Topics -> Performance</strong> from the left side, then type &#8220;<strong>Guides</strong>&#8221; in the document filter. Or you can select <strong>Resource Types -> Guides</strong> from left, and type <strong>Performance</strong> in the document filter.</p>
+<h2>How to read guides</h2>
+<p>Reading orders:</p>
+<ol>
+<li>Start Developing iOS Apps Today</li>
+<li>Your First iOS App</li>
+<li>Your Second iOS App: Storyboards</li>
+<li>Your Third iOS App: iCloud</li>
+<li>iOS Technology Overview</li>
+<li>iOS Human Interface Guidelines</li>
+<li>Learning Objective-C: A Primer</li>
+<li>Programming with Objective-C</li>
+<li>iOS App Programming Guide</li>
+<li>View Programming Guide for iOS</li>
+<li>View Controller Programming Guide for iOS</li>
+<li>Table View Programming Guide for iOS</li>
+</ol>
+<p>You may want start with &#8220;<strong>Start Developing iOS Apps Today</strong>&#8220;, this is a very easy article, but it will help you establish the basic concepts. All the concepts you will meet when you develop your app, you can find in it. And all the articles in the &#8220;related articles&#8221; section in the bottom of every page, is needed to read.</p>
+<p>A lot of iOS developers, even long time developers, have some misunderstandings about some basic concepts. Modern developing is easier and easier, tools are stronger and stronger, even when you have some misunderstandings, you can still do some works. But if you don&#8217;t build a solid foundation, you will be hurt by it soon, it will cause a lot of trouble.</p>
+<p><strong>Purpose and test standard is that you understand most of the concepts in your development works.</strong></p>
+<p>Then you may want read &#8220;<strong>Your First iOS App</strong>&#8220;, &#8220;<strong>Your Second iOS App: Storyboards</strong>&#8220;, and &#8220;<strong>Your Third iOS App: iCloud</strong>&#8220;, this series is easy too. You don&#8217;t need rush to learn Objective-C/Swift. The method I recommended is step by step. Before you learn system structure, Objective-C/Swift, you can follow the articles, write a simplest App, as your first milestone. During the process, you don&#8217;t need worry about any questions, any misunderstanding, just do it first.</p>
+<p>This process will help you understand the development tools, <strong>Xcode</strong> and so on, and give you confidence.</p>
+<p><strong>Purpose and test standard is write these three Apps, and build and run them using Xcode.</strong></p>
+<p>Then you may want read &#8220;<strong>iOS Technology Overview</strong>&#8220;, iOS is not a technology, it is a set of a lot of technologies. When you want an animation effect, you need know you which technology you can choose and which one you should choose, Core Animation or OpenGL? When you want to some work related text, if you need Core Text or not? Want understand this kind problems, you need read this article.</p>
+<p>Learn modern programming language, framework is as important as language itself. Only when you understand the frameworks structures, then you can easily find what you want when you work.</p>
+<p><strong>Purpose and test standard is that you know where to find you information about frameworks.</strong></p>
+<p>Then you must read <strong>iOS Human Interface Guidelines</strong>. There are a mass of all kinds Apps on Mac/iOS, but normally you will find good Apps are familiar and harmonious with the system. Not like Windows or other platforms, why?</p>
+<p>It is the &#8220;<strong>Human Interface Guidelines</strong>&#8221; culture&#8217;s credit. In these articles, Apple talk about what is the best manners of an App, how do you do in your App, to make use feel familiar and harmonious. Apple even give &#8220;Human Interface Guidelines&#8221; an abbreviation <strong>HIG</strong>, if you follow HIG, your Apps will look like a Mac/iOS App, act like a Mac/iOS App. You can break HIG, but must after you truly understand it, and follow its spirit.</p>
+<p>And read HIG can help you understand UI structures and how UI elements interact each other, so you can design your UI.</p>
+<p><strong>Purpose and test standard is when you look at an app, you can identify which part is system controller, which is a self custom controller, and their levels, structures.</strong></p>
+<p>Then you may want read &#8220;<strong>Learning Objective-C: A Primer</strong>&#8220;, this is the easy one, and the more complex one, &#8220;Programming with Objective-C&#8221;.</p>
+<p>Most people learn language first and recommend this order, but I recommend understand basic concepts first, then make a demo App, then learn the language.</p>
+<p>Because:</p>
+<ul>
+<li>Modern development normally involve UI interactive and IDE, beginner can not ignore them. You must know you tools, and your problem fields.</li>
+<li>Modern language, normally is combine with some lirbaries, sometimes lirbaries are more important than the language, and more complex.</li>
+</ul>
+<p>For example, <strong>Delegate</strong> and <strong>Block</strong> are very close to Cocoa UI&#8217;s asynchronous  mechanism, if you don&#8217;t know UI mechanism, you hardly can understand these language elements, or understand their usages.</p>
+<p><strong>Purpose and test standard is knowing how to read Objective-C codes.</strong></p>
+<p>Then &#8220;iOS App Programming Guide&#8221;, talk about a complete process of how to develop an App, include App&#8217;s lifecycle, execution States, and so on. Must read before you develop you first real app.</p>
+<p><strong>Purpose and test standard is knowing a lot of processes and details.</strong></p>
+<p><strong>View Programming Guide for iOS</strong> and <strong>View Controller Programming Guide for iOS</strong> are very important. <strong>View</strong> is the most important concept in iOS/Mac UI. All graphs, UI is based on view. UI no matter how complex normally is built by view, is all kinds of combinations and overlaps of views.</p>
+<p><strong>View Controller</strong> is view combine with logic codes, this kind combination will remarkably reduce code complexity. You can hardly write correct without knowing <strong>View</strong> and <strong>View Controller</strong>.</p>
+<p><strong>Purpose and test standard is knowing View and View Controller, and knowing in which circumstance use view, which use view controller.</strong></p>
+<p><strong>UITableView</strong> is the most important controller, is most useful UI element. Before <strong>UICollectionView</strong>, most custom list/grid controller is made by UITableView. So read <strong>Table View Programming Guide for iOS</strong> is very important.</p>
+<p><strong>Purpose and test standard is understand UITableView and UITableViewController, knowing how to use them.</strong></p>
+<p>After read these articles, you may already can say you know how to write an iOS App. But you almost can read all these articles in one day. It is not very hard, but need some patience, need follow the right method, and need think.</p>
+<h2>How to find information in documents</h2>
+<p><strong>Quick Help</strong></p>
+<p>The most convenient way to get help even don&#8217;t need you type a word. You just need hold Option key, and click the keyword you want to know, you will immediately get quick help, like blow:</p>
+<p><a href="http://tinyfool.org/wp-content/uploads/2016/01/quickhelponkeyword.png" rel="attachment wp-att-323"><img src="http://tinyfool.org/wp-content/uploads/2016/01/quickhelponkeyword.png" alt="quickhelponkeyword" width="566" height="213" class="alignnone size-full wp-image-323" srcset="http://tinyfool.org/wp-content/uploads/2016/01/quickhelponkeyword.png 566w, http://tinyfool.org/wp-content/uploads/2016/01/quickhelponkeyword-300x113.png 300w, http://tinyfool.org/wp-content/uploads/2016/01/quickhelponkeyword-565x213.png 565w" sizes="(max-width: 566px) 100vw, 566px" /></a></p>
+<p>Quick help will includes some simple description, available from which version of OS, header file, and reference document. Header file and reference document is clickable.</p>
+<p>Even your keyword is not a keyword of Cocoa library, is just a class name or method name from your own codes, you can also get some information, like this:</p>
+<p><a href="http://tinyfool.org/wp-content/uploads/2016/01/quickhelponowncode.png" rel="attachment wp-att-324"><img src="http://tinyfool.org/wp-content/uploads/2016/01/quickhelponowncode.png" alt="quickhelponowncode" width="541" height="175" class="alignnone size-full wp-image-324" srcset="http://tinyfool.org/wp-content/uploads/2016/01/quickhelponowncode.png 541w, http://tinyfool.org/wp-content/uploads/2016/01/quickhelponowncode-300x97.png 300w" sizes="(max-width: 541px) 100vw, 541px" /></a></p>
+<p>Another hotkey is Command key + mouse click, editor will just to head files related with a class name or method name.</p>
+<p>Another way to get quick help information is to use <strong>Quick help inspector</strong>, first find the <strong>Utilities</strong> switch, and find the <strong>Quick help inspector</strong> switch. Like this:</p>
+<p><a href="http://tinyfool.org/wp-content/uploads/2016/01/quickhelppanel-en.png" rel="attachment wp-att-325"><img src="http://tinyfool.org/wp-content/uploads/2016/01/quickhelppanel-en.png" alt="quickhelppanel-en" width="668" height="882" class="alignnone size-full wp-image-325" srcset="http://tinyfool.org/wp-content/uploads/2016/01/quickhelppanel-en.png 668w, http://tinyfool.org/wp-content/uploads/2016/01/quickhelppanel-en-227x300.png 227w" sizes="(max-width: 668px) 100vw, 668px" /></a></p>
+<p>It function is as long as opened, whichever keyword your input caret at, Quick help inspector will show its information, just like the information from Option key + mouse click, but maybe more rich.</p>
+<p><strong>Search documents</strong></p>
+<p>This is search interface, when we search UIImage:</p>
+<p><a href="http://tinyfool.org/wp-content/uploads/2016/01/helpsearch.png" rel="attachment wp-att-327"><img src="http://tinyfool.org/wp-content/uploads/2016/01/helpsearch.png" alt="helpsearch" width="305" height="732" class="alignnone size-full wp-image-327" srcset="http://tinyfool.org/wp-content/uploads/2016/01/helpsearch.png 305w, http://tinyfool.org/wp-content/uploads/2016/01/helpsearch-125x300.png 125w" sizes="(max-width: 305px) 100vw, 305px" /></a></p>
+<p>The results is also divided in four types, <strong>Reference</strong>, <strong>System Guides</strong>, <strong>Tools Guides</strong> and <strong>Sample Code</strong>.</p>
+<p><strong>How to read a reference</strong></p>
+<p>This is UIImage&#8217;s reference:</p>
+<p><a href="http://tinyfool.org/wp-content/uploads/2016/01/helpread.png" rel="attachment wp-att-328"><img src="http://tinyfool.org/wp-content/uploads/2016/01/helpread.png" alt="helpread" width="615" height="714" class="alignnone size-full wp-image-328" srcset="http://tinyfool.org/wp-content/uploads/2016/01/helpread.png 615w, http://tinyfool.org/wp-content/uploads/2016/01/helpread-258x300.png 258w" sizes="(max-width: 615px) 100vw, 615px" /></a></p>
+<p>Structure:</p>
+<ol>
+<li>Inherits from </li>
+<li>Conforms to</li>
+<li>Framework</li>
+<li>Availability</li>
+<li>Declared in</li>
+<li>Related sample code</li>
+<li>Companion guide</li>
+</ol>
+<p>And it maybe not very clear, on the top of the interface, it is a navigation bar, you can use it to navigate to different places.</p>
+";}s:3:"wfw";a:1:{s:10:"commentrss";s:69:"http://tinyfool.org/2016/01/apple-xcode-documents-reading-guide/feed/";}s:5:"slash";a:1:{s:8:"comments";s:1:"0";}s:7:"summary";s:339:"The structure of Xcode documents As above, when you open Xcode documents, the whole interface build by left side area, and right side content area. You can choose different documents sets from left side area. Normally your Xcode documents includes some iOS documents sets, some Mac OS X documents sets, and a Xcode documents set. [&#8230;]";s:12:"atom_content";s:17552:"<h2>The structure of Xcode documents</h2>
+<p><a href="http://tinyfool.org/wp-content/uploads/2015/12/xcodedocument.png" rel="attachment wp-att-311"><img src="http://tinyfool.org/wp-content/uploads/2015/12/xcodedocument-1024x553.png" alt="xcodedocument" width="640" height="346" class="alignnone size-large wp-image-311" srcset="http://tinyfool.org/wp-content/uploads/2015/12/xcodedocument-1024x553.png 1024w, http://tinyfool.org/wp-content/uploads/2015/12/xcodedocument-300x162.png 300w, http://tinyfool.org/wp-content/uploads/2015/12/xcodedocument-768x415.png 768w, http://tinyfool.org/wp-content/uploads/2015/12/xcodedocument.png 1554w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+<p>As above, when you open Xcode documents, the whole interface build by left side area, and right side content area. You can choose different documents sets from left side area. Normally your Xcode documents includes some iOS documents sets, some Mac OS X documents sets, and a Xcode documents set.</p>
+<p>If the documents set you want isn&#8217;t available here, you can choose Preferences menu of Xcode, the choose Downloads -> Documentation. You can find installed documents sets, undownloaded documents sets, you can free choose what you want. Like blow:</p>
+<p><a href="http://tinyfool.org/wp-content/uploads/2016/01/xcodedownload.png" rel="attachment wp-att-313"><img src="http://tinyfool.org/wp-content/uploads/2016/01/xcodedownload.png" alt="xcodedownload" width="864" height="662" class="alignnone size-full wp-image-313" srcset="http://tinyfool.org/wp-content/uploads/2016/01/xcodedownload.png 864w, http://tinyfool.org/wp-content/uploads/2016/01/xcodedownload-300x230.png 300w, http://tinyfool.org/wp-content/uploads/2016/01/xcodedownload-768x588.png 768w" sizes="(max-width: 864px) 100vw, 864px" /></a></p>
+<p>Then look at left side of the content are, this is the structure of a documents set, as blow:</p>
+<p><a href="http://tinyfool.org/wp-content/uploads/2016/01/xcodedocnav.png" rel="attachment wp-att-315"><img src="http://tinyfool.org/wp-content/uploads/2016/01/xcodedocnav.png" alt="xcodedocnav" width="226" height="644" class="alignnone size-full wp-image-315" srcset="http://tinyfool.org/wp-content/uploads/2016/01/xcodedocnav.png 226w, http://tinyfool.org/wp-content/uploads/2016/01/xcodedocnav-105x300.png 105w" sizes="(max-width: 226px) 100vw, 226px" /></a></p>
+<p>First is Resource Types, all the articles in documents set must be one of the types:</p>
+<ol>
+<li><strong>Getting Started</strong> &#8212; It is for the totally beginner. Recommend all beginners read them, there are some articles to help you establish the basic concepts, will make your next steps more easier. </li>
+<li><strong>Guides</strong> &#8212; It is the best part of the documents, if you know how to read guides, you don&#8217;t need buy any books. Guides of Xcode documents, is a kind of step by step articles, tell you how to solve a problem, how to use a framework of Cocoa, how to understand the system, and so on. Programmers are familiar with reference, it is just like a dictionary. But reference normally is fragment knowledge, you need something to connect the dots, to get the big picture, guides will help you to do it.</li>
+<li><strong>Reference</strong> &#8212; It is just like a dictionary, when you try to find detail information of a class, a method or a function, you look at their reference pages.</li>
+<li><strong>Release Notes</strong> &#8212; It will tell you what is new in a new iOS/Mac version, the new features, new APIs, new way to do something. When you try to learn new system, compare different APIs in different version, you may want check them. </li>
+<li><strong>Sample Code</strong> &#8212; Apple provide a lot of codes, help you understand APIs and technologies. Strong Recommend you look into them. Sometimes if you only read documents, you can&#8217;t get everything. And all these codes is written by Apple engineers, you can learn from masters, and follow the trends of code style.</li>
+<li><strong>Technical Notes</strong> &#8212; There are a lot of technical articles, you may want read it when you have some free time.</li>
+<li><strong>Technical Q&amp;A</strong> &#8212; Frequently asked questions and answers.</li>
+<li><strong>Video</strong> &#8212; Mainly WWDC videos. Strong Recommend you watch, if you want to dig deeper.</li>
+</ol>
+<p>Normally <strong>reference</strong>, <strong>release notes</strong>, <strong>sample code</strong>, <strong>technical notes</strong> and <strong>Technical Q&amp;A</strong>?is for you to search. <strong>Getting started</strong> and <strong>guides</strong> is for you to read.</p>
+<p>Then is the topics:</p>
+<ol>
+<li><strong>Audio &amp; Video</strong></li>
+<li><strong>Languages &amp; Utilities</strong></li>
+<li><strong>Mathematical Computation</strong></li>
+<li><strong>Xcode</strong></li>
+<li><strong>Data Management</strong></li>
+<li><strong>General</strong></li>
+<li><strong>Graphics &amp; Animation</strong></li>
+<li><strong>Networking &amp; Internet</strong></li>
+<li><strong>Performance</strong></li>
+<li><strong>Security</strong></li>
+<li><strong>User Experience</strong></li>
+</ol>
+<p>It is very easy to understand.</p>
+<p>Then it is the Frameworks:</p>
+<ol>
+<li>Cocoa Touch Layer</li>
+<li>Media Layer</li>
+<li>Core Services Layer</li>
+<li>Core OS Layer</li>
+</ol>
+<p>Types, topics and frameworks is three different dimensions to help understand and locate the documents you want.</p>
+<p>Now look at the right of content area. On the top is a document filter, as blow:</p>
+<p><a href="http://tinyfool.org/wp-content/uploads/2016/01/xcodedocumentfilter.png" rel="attachment wp-att-319"><img src="http://tinyfool.org/wp-content/uploads/2016/01/xcodedocumentfilter.png" alt="xcodedocumentfilter" width="803" height="181" class="alignnone size-full wp-image-319" srcset="http://tinyfool.org/wp-content/uploads/2016/01/xcodedocumentfilter.png 803w, http://tinyfool.org/wp-content/uploads/2016/01/xcodedocumentfilter-300x68.png 300w, http://tinyfool.org/wp-content/uploads/2016/01/xcodedocumentfilter-768x173.png 768w" sizes="(max-width: 803px) 100vw, 803px" /></a></p>
+<p>For example, if you want read guides about performance, you may want select <strong>Topics -> Performance</strong> from the left side, then type &#8220;<strong>Guides</strong>&#8221; in the document filter. Or you can select <strong>Resource Types -> Guides</strong> from left, and type <strong>Performance</strong> in the document filter.</p>
+<h2>How to read guides</h2>
+<p>Reading orders:</p>
+<ol>
+<li>Start Developing iOS Apps Today</li>
+<li>Your First iOS App</li>
+<li>Your Second iOS App: Storyboards</li>
+<li>Your Third iOS App: iCloud</li>
+<li>iOS Technology Overview</li>
+<li>iOS Human Interface Guidelines</li>
+<li>Learning Objective-C: A Primer</li>
+<li>Programming with Objective-C</li>
+<li>iOS App Programming Guide</li>
+<li>View Programming Guide for iOS</li>
+<li>View Controller Programming Guide for iOS</li>
+<li>Table View Programming Guide for iOS</li>
+</ol>
+<p>You may want start with &#8220;<strong>Start Developing iOS Apps Today</strong>&#8220;, this is a very easy article, but it will help you establish the basic concepts. All the concepts you will meet when you develop your app, you can find in it. And all the articles in the &#8220;related articles&#8221; section in the bottom of every page, is needed to read.</p>
+<p>A lot of iOS developers, even long time developers, have some misunderstandings about some basic concepts. Modern developing is easier and easier, tools are stronger and stronger, even when you have some misunderstandings, you can still do some works. But if you don&#8217;t build a solid foundation, you will be hurt by it soon, it will cause a lot of trouble.</p>
+<p><strong>Purpose and test standard is that you understand most of the concepts in your development works.</strong></p>
+<p>Then you may want read &#8220;<strong>Your First iOS App</strong>&#8220;, &#8220;<strong>Your Second iOS App: Storyboards</strong>&#8220;, and &#8220;<strong>Your Third iOS App: iCloud</strong>&#8220;, this series is easy too. You don&#8217;t need rush to learn Objective-C/Swift. The method I recommended is step by step. Before you learn system structure, Objective-C/Swift, you can follow the articles, write a simplest App, as your first milestone. During the process, you don&#8217;t need worry about any questions, any misunderstanding, just do it first.</p>
+<p>This process will help you understand the development tools, <strong>Xcode</strong> and so on, and give you confidence.</p>
+<p><strong>Purpose and test standard is write these three Apps, and build and run them using Xcode.</strong></p>
+<p>Then you may want read &#8220;<strong>iOS Technology Overview</strong>&#8220;, iOS is not a technology, it is a set of a lot of technologies. When you want an animation effect, you need know you which technology you can choose and which one you should choose, Core Animation or OpenGL? When you want to some work related text, if you need Core Text or not? Want understand this kind problems, you need read this article.</p>
+<p>Learn modern programming language, framework is as important as language itself. Only when you understand the frameworks structures, then you can easily find what you want when you work.</p>
+<p><strong>Purpose and test standard is that you know where to find you information about frameworks.</strong></p>
+<p>Then you must read <strong>iOS Human Interface Guidelines</strong>. There are a mass of all kinds Apps on Mac/iOS, but normally you will find good Apps are familiar and harmonious with the system. Not like Windows or other platforms, why?</p>
+<p>It is the &#8220;<strong>Human Interface Guidelines</strong>&#8221; culture&#8217;s credit. In these articles, Apple talk about what is the best manners of an App, how do you do in your App, to make use feel familiar and harmonious. Apple even give &#8220;Human Interface Guidelines&#8221; an abbreviation <strong>HIG</strong>, if you follow HIG, your Apps will look like a Mac/iOS App, act like a Mac/iOS App. You can break HIG, but must after you truly understand it, and follow its spirit.</p>
+<p>And read HIG can help you understand UI structures and how UI elements interact each other, so you can design your UI.</p>
+<p><strong>Purpose and test standard is when you look at an app, you can identify which part is system controller, which is a self custom controller, and their levels, structures.</strong></p>
+<p>Then you may want read &#8220;<strong>Learning Objective-C: A Primer</strong>&#8220;, this is the easy one, and the more complex one, &#8220;Programming with Objective-C&#8221;.</p>
+<p>Most people learn language first and recommend this order, but I recommend understand basic concepts first, then make a demo App, then learn the language.</p>
+<p>Because:</p>
+<ul>
+<li>Modern development normally involve UI interactive and IDE, beginner can not ignore them. You must know you tools, and your problem fields.</li>
+<li>Modern language, normally is combine with some lirbaries, sometimes lirbaries are more important than the language, and more complex.</li>
+</ul>
+<p>For example, <strong>Delegate</strong> and <strong>Block</strong> are very close to Cocoa UI&#8217;s asynchronous  mechanism, if you don&#8217;t know UI mechanism, you hardly can understand these language elements, or understand their usages.</p>
+<p><strong>Purpose and test standard is knowing how to read Objective-C codes.</strong></p>
+<p>Then &#8220;iOS App Programming Guide&#8221;, talk about a complete process of how to develop an App, include App&#8217;s lifecycle, execution States, and so on. Must read before you develop you first real app.</p>
+<p><strong>Purpose and test standard is knowing a lot of processes and details.</strong></p>
+<p><strong>View Programming Guide for iOS</strong> and <strong>View Controller Programming Guide for iOS</strong> are very important. <strong>View</strong> is the most important concept in iOS/Mac UI. All graphs, UI is based on view. UI no matter how complex normally is built by view, is all kinds of combinations and overlaps of views.</p>
+<p><strong>View Controller</strong> is view combine with logic codes, this kind combination will remarkably reduce code complexity. You can hardly write correct without knowing <strong>View</strong> and <strong>View Controller</strong>.</p>
+<p><strong>Purpose and test standard is knowing View and View Controller, and knowing in which circumstance use view, which use view controller.</strong></p>
+<p><strong>UITableView</strong> is the most important controller, is most useful UI element. Before <strong>UICollectionView</strong>, most custom list/grid controller is made by UITableView. So read <strong>Table View Programming Guide for iOS</strong> is very important.</p>
+<p><strong>Purpose and test standard is understand UITableView and UITableViewController, knowing how to use them.</strong></p>
+<p>After read these articles, you may already can say you know how to write an iOS App. But you almost can read all these articles in one day. It is not very hard, but need some patience, need follow the right method, and need think.</p>
+<h2>How to find information in documents</h2>
+<p><strong>Quick Help</strong></p>
+<p>The most convenient way to get help even don&#8217;t need you type a word. You just need hold Option key, and click the keyword you want to know, you will immediately get quick help, like blow:</p>
+<p><a href="http://tinyfool.org/wp-content/uploads/2016/01/quickhelponkeyword.png" rel="attachment wp-att-323"><img src="http://tinyfool.org/wp-content/uploads/2016/01/quickhelponkeyword.png" alt="quickhelponkeyword" width="566" height="213" class="alignnone size-full wp-image-323" srcset="http://tinyfool.org/wp-content/uploads/2016/01/quickhelponkeyword.png 566w, http://tinyfool.org/wp-content/uploads/2016/01/quickhelponkeyword-300x113.png 300w, http://tinyfool.org/wp-content/uploads/2016/01/quickhelponkeyword-565x213.png 565w" sizes="(max-width: 566px) 100vw, 566px" /></a></p>
+<p>Quick help will includes some simple description, available from which version of OS, header file, and reference document. Header file and reference document is clickable.</p>
+<p>Even your keyword is not a keyword of Cocoa library, is just a class name or method name from your own codes, you can also get some information, like this:</p>
+<p><a href="http://tinyfool.org/wp-content/uploads/2016/01/quickhelponowncode.png" rel="attachment wp-att-324"><img src="http://tinyfool.org/wp-content/uploads/2016/01/quickhelponowncode.png" alt="quickhelponowncode" width="541" height="175" class="alignnone size-full wp-image-324" srcset="http://tinyfool.org/wp-content/uploads/2016/01/quickhelponowncode.png 541w, http://tinyfool.org/wp-content/uploads/2016/01/quickhelponowncode-300x97.png 300w" sizes="(max-width: 541px) 100vw, 541px" /></a></p>
+<p>Another hotkey is Command key + mouse click, editor will just to head files related with a class name or method name.</p>
+<p>Another way to get quick help information is to use <strong>Quick help inspector</strong>, first find the <strong>Utilities</strong> switch, and find the <strong>Quick help inspector</strong> switch. Like this:</p>
+<p><a href="http://tinyfool.org/wp-content/uploads/2016/01/quickhelppanel-en.png" rel="attachment wp-att-325"><img src="http://tinyfool.org/wp-content/uploads/2016/01/quickhelppanel-en.png" alt="quickhelppanel-en" width="668" height="882" class="alignnone size-full wp-image-325" srcset="http://tinyfool.org/wp-content/uploads/2016/01/quickhelppanel-en.png 668w, http://tinyfool.org/wp-content/uploads/2016/01/quickhelppanel-en-227x300.png 227w" sizes="(max-width: 668px) 100vw, 668px" /></a></p>
+<p>It function is as long as opened, whichever keyword your input caret at, Quick help inspector will show its information, just like the information from Option key + mouse click, but maybe more rich.</p>
+<p><strong>Search documents</strong></p>
+<p>This is search interface, when we search UIImage:</p>
+<p><a href="http://tinyfool.org/wp-content/uploads/2016/01/helpsearch.png" rel="attachment wp-att-327"><img src="http://tinyfool.org/wp-content/uploads/2016/01/helpsearch.png" alt="helpsearch" width="305" height="732" class="alignnone size-full wp-image-327" srcset="http://tinyfool.org/wp-content/uploads/2016/01/helpsearch.png 305w, http://tinyfool.org/wp-content/uploads/2016/01/helpsearch-125x300.png 125w" sizes="(max-width: 305px) 100vw, 305px" /></a></p>
+<p>The results is also divided in four types, <strong>Reference</strong>, <strong>System Guides</strong>, <strong>Tools Guides</strong> and <strong>Sample Code</strong>.</p>
+<p><strong>How to read a reference</strong></p>
+<p>This is UIImage&#8217;s reference:</p>
+<p><a href="http://tinyfool.org/wp-content/uploads/2016/01/helpread.png" rel="attachment wp-att-328"><img src="http://tinyfool.org/wp-content/uploads/2016/01/helpread.png" alt="helpread" width="615" height="714" class="alignnone size-full wp-image-328" srcset="http://tinyfool.org/wp-content/uploads/2016/01/helpread.png 615w, http://tinyfool.org/wp-content/uploads/2016/01/helpread-258x300.png 258w" sizes="(max-width: 615px) 100vw, 615px" /></a></p>
+<p>Structure:</p>
+<ol>
+<li>Inherits from </li>
+<li>Conforms to</li>
+<li>Framework</li>
+<li>Availability</li>
+<li>Declared in</li>
+<li>Related sample code</li>
+<li>Companion guide</li>
+</ol>
+<p>And it maybe not very clear, on the top of the interface, it is a navigation bar, you can use it to navigate to different places.</p>
+";s:14:"date_timestamp";i:1451921928;}i:9;a:14:{s:5:"title";s:39:"Can we use Swift as a backend language?";s:4:"link";s:67:"http://tinyfool.org/2015/12/can-we-use-swift-as-a-backend-language/";s:8:"comments";s:76:"http://tinyfool.org/2015/12/can-we-use-swift-as-a-backend-language/#comments";s:7:"pubdate";s:31:"Sat, 26 Dec 2015 13:57:28 +0000";s:2:"dc";a:1:{s:7:"creator";s:8:"tinyfool";}s:8:"category";s:10:"AppleSwift";s:4:"guid";s:26:"http://tinyfool.org/?p=307";s:11:"description";s:319:"First question is why someone need use Swift as a backend language? I think: People always seek to use one language solves all kinds of problem. If Swift can use as a backend language, iOS developers can easily change their identities to Full Stack developer. They can use one language to make a whole product [&#8230;]";s:7:"content";a:1:{s:7:"encoded";s:1186:"<p>First question is why someone need use Swift as a backend language? I think:</p>
+<ol>
+<li>
+<p>People always seek to use one language solves all kinds of problem. If Swift can use as a backend language, iOS developers can easily change their identities to Full Stack developer. They can use one language to make a whole product iOS client and server.</p>
+</li>
+<li>
+<p>Beside UI-related classes, Cocoa-touch have a lot of other things. iOS developers can reuse a lot of Cocoa-touch frameworks and a lot of third party frameworks, and a lot of source bases from their iOS codes.</p>
+</li>
+<li>
+<p>Swift use ARC (Automatic Reference Counting) manage memory, fast, efficient, easy to use. ARC is more convenient than manually manage memory (C/C++), and more efficient and fast than GC (Java/C#).</p>
+</li>
+<li>
+<p>The typing system of Swift can make server side codes safer.</p>
+</li>
+</ol>
+<p>Finally can we use Swift as a backend language? It depends:</p>
+<ol>
+<li>
+<p>To be a good backend language, Swift needs Apple or third party provide a lot of frameworks for backend usage.</p>
+</li>
+<li>
+<p>Swift may need some language support to handle concurrent connections.</p>
+</li>
+</ol>
+";}s:3:"wfw";a:1:{s:10:"commentrss";s:72:"http://tinyfool.org/2015/12/can-we-use-swift-as-a-backend-language/feed/";}s:5:"slash";a:1:{s:8:"comments";s:1:"1";}s:7:"summary";s:319:"First question is why someone need use Swift as a backend language? I think: People always seek to use one language solves all kinds of problem. If Swift can use as a backend language, iOS developers can easily change their identities to Full Stack developer. They can use one language to make a whole product [&#8230;]";s:12:"atom_content";s:1186:"<p>First question is why someone need use Swift as a backend language? I think:</p>
+<ol>
+<li>
+<p>People always seek to use one language solves all kinds of problem. If Swift can use as a backend language, iOS developers can easily change their identities to Full Stack developer. They can use one language to make a whole product iOS client and server.</p>
+</li>
+<li>
+<p>Beside UI-related classes, Cocoa-touch have a lot of other things. iOS developers can reuse a lot of Cocoa-touch frameworks and a lot of third party frameworks, and a lot of source bases from their iOS codes.</p>
+</li>
+<li>
+<p>Swift use ARC (Automatic Reference Counting) manage memory, fast, efficient, easy to use. ARC is more convenient than manually manage memory (C/C++), and more efficient and fast than GC (Java/C#).</p>
+</li>
+<li>
+<p>The typing system of Swift can make server side codes safer.</p>
+</li>
+</ol>
+<p>Finally can we use Swift as a backend language? It depends:</p>
+<ol>
+<li>
+<p>To be a good backend language, Swift needs Apple or third party provide a lot of frameworks for backend usage.</p>
+</li>
+<li>
+<p>Swift may need some language support to handle concurrent connections.</p>
+</li>
+</ol>
+";s:14:"date_timestamp";i:1451138248;}}s:7:"channel";a:8:{s:5:"title";s:14:"Tinyfool' blog";s:4:"link";s:19:"http://tinyfool.org";s:11:"description";s:55:"About an old programmer tinyfool, he lives in Shanghai.";s:13:"lastbuilddate";s:31:"Mon, 17 Apr 2017 17:37:36 +0000";s:8:"language";s:5:"en-US";s:2:"sy";a:2:{s:12:"updateperiod";s:6:"hourly";s:15:"updatefrequency";s:1:"1";}s:9:"generator";s:30:"https://wordpress.org/?v=4.7.4";s:7:"tagline";s:55:"About an old programmer tinyfool, he lives in Shanghai.";}s:9:"textinput";a:0:{}s:5:"image";a:0:{}s:9:"feed_type";s:3:"RSS";s:12:"feed_version";s:3:"2.0";s:8:"encoding";s:10:"ISO-8859-1";s:16:"_source_encoding";s:0:"";s:5:"ERROR";s:0:"";s:7:"WARNING";s:0:"";s:19:"_CONTENT_CONSTRUCTS";a:6:{i:0;s:7:"content";i:1;s:7:"summary";i:2;s:4:"info";i:3;s:5:"title";i:4;s:7:"tagline";i:5;s:9:"copyright";}s:16:"_KNOWN_ENCODINGS";a:3:{i:0;s:5:"UTF-8";i:1;s:8:"US-ASCII";i:2;s:10:"ISO-8859-1";}s:5:"stack";a:0:{}s:9:"inchannel";b:0;s:6:"initem";b:0;s:9:"incontent";b:0;s:11:"intextinput";b:0;s:7:"inimage";b:0;s:17:"current_namespace";b:0;s:13:"last_modified";s:31:"Mon, 17 Apr 2017 17:37:36 GMT
+";s:4:"etag";s:41:""dcdda5c2419ef515523e1d4f6c6974e0-gzip"
+";}

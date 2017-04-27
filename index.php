@@ -7,7 +7,6 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
-
     <title>Domain parking</title>
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
@@ -41,11 +40,11 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.html">Domain parking</a>
+          <a class="navbar-brand" href="/">Tinyfool的聚合站</a>
         </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="index.html">Home</a></li>
+            <li class="active"><a href="/">Home</a></li>
           </ul>
         </div><!-- /.nav-collapse -->
       </div><!-- /.container -->
@@ -61,6 +60,24 @@
           </p>
           <div class="jumbotron">
             <h3>Domaim Park</h3>
+
+<?php
+  define('MAGPIE_CACHE_DIR', './cache');
+  require_once("../phplib/magpierss/rss_fetch.inc");
+  $url = "http://tinyfool.org/feed/";
+  $rss = fetch_rss( $url );
+  
+  echo "Channel Title: " . $rss->channel['title'] . "<p>";
+  echo "<ul>";
+  foreach ($rss->items as $item) {
+    $href = $item['link'];
+    $title = $item['title'];
+    echo "<li><a href=$href>$title</a></li>";
+  }
+  echo "</ul>";
+
+  print_r($rss);
+?>
             <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
             <!-- tiny4cocoa贴后(自适应) -->
             <ins class="adsbygoogle"
