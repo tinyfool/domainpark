@@ -45,9 +45,9 @@ CREATE TABLE `contents` (
   `guid` text,
   `url` text,
   `title` varchar(80) DEFAULT NULL,
+  `channelid` int(11) DEFAULT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
-
 
 
 
