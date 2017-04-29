@@ -62,7 +62,11 @@
             <div>
               <ul>
               {foreach from=$data item=item}
-                <li><a href="{$item.url}">{$item.title}</a></li>
+                <li style="padding:5px; ">
+                  <a href="{$item.url}" style="font-size:24px;" target="_blank">{$item.title}</a>
+                   
+                  <a href="{$item.curl}" style="color: #aaa;" target="_blank">( {$item.ctitle} )</a>
+                </li>
               {/foreach}
               </ul>
             </div>
