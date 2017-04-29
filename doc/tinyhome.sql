@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.16)
 # Database: tinyhome
-# Generation Time: 2017-04-27 08:50:53 +0000
+# Generation Time: 2017-04-29 16:23:55 +0000
 # ************************************************************
 
 
@@ -42,12 +42,15 @@ DROP TABLE IF EXISTS `contents`;
 
 CREATE TABLE `contents` (
   `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
-  `guid` text,
+  `guid` varchar(1024) DEFAULT '',
   `url` text,
   `title` varchar(80) DEFAULT NULL,
-  `channelid` int(11) DEFAULT NULL,
-  PRIMARY KEY (`id`)
+  `updatetime` int(11) DEFAULT NULL,
+  `cid` int(11) DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  UNIQUE KEY `guid` (`guid`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
 
 
 
@@ -57,3 +60,4 @@ CREATE TABLE `contents` (
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+
