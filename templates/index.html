@@ -58,8 +58,14 @@
             <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
           </p>
           <div class="jumbotron">
-            <h3>Domaim Park</h3>
-            <div></div>
+            <h3>Tinyfool的聚合站</h3>
+            <div>
+              <ul>
+              {foreach from=$data item=item}
+                <li><a href="{$item.url}">{$item.title}</a></li>
+              {/foreach}
+              </ul>
+            </div>
             <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
             <!-- tiny4cocoa贴后(自适应) -->
             <ins class="adsbygoogle"
@@ -79,7 +85,7 @@
       <hr>
 
       <footer>
-        <p>&copy; Company 2014</p>
+        <p>&copy; tinyfool 2017</p>
         <p>
           <a href="http://ourcoders.com" target="_blank">OurCoders</a> |
           <a href="http://DemoCodes.com" target="_blank">DemoCodes</a> 
